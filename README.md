@@ -1,16 +1,38 @@
-## Hi there 32434 👋
+## Привет 👋
 
-<!--
-**SlvBz-sys/SlvBz-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Системный администратор: Windows/Linux-инфраструктура, сети, мониторинг
+и техническая защита информации.
 
-Here are some ideas to get you started:
+Администрирую Windows Server и Active Directory, Linux-серверы, сеть на MikroTik
+и UserGate, виртуализацию на KVM/Libvirt. Отдельное направление — защита
+информации: документы и процедуры по 152-ФЗ, СКЗИ, антивирусная защита,
+резервное копирование.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Здесь выкладываю лабораторки и runbook'и: воспроизводимые стенды с шагами,
+конфигами и разбором грабель, на которые наступил.
+
+---
+
+**Стек**
+
+- **ОС:** Windows 7/10/11, Windows Server, Ubuntu Server, Debian, Arch Linux, Alt Linux
+- **Службы и каталоги:** Active Directory, GPO, DNS, DHCP
+- **Сети:** MikroTik RouterOS, UserGate, TP-Link, VLAN, NAT, маршрутизация, firewall
+- **Виртуализация:** VMware, KVM/QEMU, Libvirt, Docker
+- **Мониторинг:** Zabbix, Prometheus + Grafana
+- **Защита информации:** 152-ФЗ (ПДн), СКЗИ, ViPNet, антивирусная защита, бэкапы
+- **Автоматизация:** Bash, PowerShell
+
+---
+
+**Сейчас в работе**
+
+| Проект | Что внутри | Статус |
+| --- | --- | --- |
+| `zabbix-monitoring-lab` | Zabbix 7.0 + PostgreSQL, 4 узла, агенты Windows/Linux | в работе |
+| `network-lab` | VLAN, NAT, маршрутизация на MikroTik в GNS3 | план |
+| `docs-templates-pdn` | обезличенные шаблоны регламентов по ПДн и СКЗИ | план |
+
+---
+
+📫 Почта: **foxexrteme229@gmail.com** · Telegram: **[@slvbez](https://t.me/slvbez)**
