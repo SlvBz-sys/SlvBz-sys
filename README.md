@@ -1,4 +1,4 @@
-## Привет 👋
+## Привет 
 
 Системный администратор: Windows/Linux-инфраструктура, сети, мониторинг
 и техническая защита информации.
@@ -35,4 +35,4 @@
 
 ---
 
-📫 Почта: **foxexrteme229@gmail.com** · Telegram: **[@slvbez](https://t.me/slvbez)**
+Почта: **foxexrteme229@gmail.com** · Telegram: **[@slvbez](https://t.me/slvbez)**
